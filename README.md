@@ -4,7 +4,7 @@
 [![NuGet](https://img.shields.io/nuget/v/wk.Windows874.svg)](https://www.nuget.org/packages/wk.Windows874)
 
 ```bash
-dotnet add pacakge wk.Windows874
+dotnet add package wk.Windows874
 ```
 
 ## Usage
